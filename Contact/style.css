@@ -1,0 +1,13 @@
+body
+{
+    background-color: rgb(249, 247, 247) !important;
+}
+.contact
+{
+    margin-top: 50px;
+    height:80%;
+    padding: 20px;
+    border-radius: 12px;
+    background-color: white;
+    bottom: 0;
+}
